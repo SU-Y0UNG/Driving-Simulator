@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td align="center"><b>염재니</b></td>
-    <td align="center">👑 팀장</td>
+    <td align="center">팀장</td>
     <td>코드 병합, 메인 루프, 차량 물리 엔진, 공용 타입 설계</td>
   </tr>
   <tr>
