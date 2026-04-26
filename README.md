@@ -308,5 +308,5 @@ git clone https://github.com/your-username/bestdriver_GENISIS.git
 
 <p align="center">
   <b>GENISIS 팀</b><br/>
-  <sub>👑 팀장: 염재니 | 부팀장: 송현우 | 팀원: 김수영, 이승민, 정서현, 정지수</sub>
+  <sub> 팀장: 염재니 | 부팀장: 송현우 | 팀원: 김수영, 이승민, 정서현, 정지수</sub>
 </p>
