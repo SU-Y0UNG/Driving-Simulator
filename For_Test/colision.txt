@@ -1,0 +1,18 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+C                                                                                                   C
+C                                                                                                   C
+C           @@@@@   @@@@@   @@@     @@@     @@@  @@@@@@ @@@@  @@@@@   @@@   @@@ @@@                 C
+C          @@@@@@@ @@@@@@@  @@@     @@@     @@@ @@@@@@  @@@@ @@@@@@@@ @@@@  @@@ @@@                 C
+C          !@@     @@!  @@@ @@@     @@@     @@! @@!     @@!@ @@@  @@@ @@!@  @@@ !@@                 C
+C          !@!     !@!  @!@ !@!     !@!     !@! !@!     !@!! !@   !@! !@!!  !@! !@!                 C
+C          !@!     @!@  !@! @!!     @!!     !!@ !!@@!!  @!!! !!   @!@ @!!!  !@! !@!                 C
+C          !!!     !@!  !!! !!!     !!!     !!!  !!!!!  !!!! !!   !!@ !!!!! !!! !@!                 C
+C          :!!     !!:  !!! !!:     !!:     !!:      !: !!:: !:   !!: !!: !!!!: !:!                 C
+C          :!:     :!:  !:! :!:     :!:     :!: :!:  !: :!:: !::  !:! :!:  !:!:                     C
+C           :::::: :::::::  ::::::: ::::::: :::  :::::: ::::  ::::::  :::   ::: :::                 C
+C            :::::  :::::   ::::::: ::::::: :::   ::::  ::::  :::::   :::   ::: :::                 C
+C                                                                                                   C
+C                                                                                                   C
+C                                                                                                   C
+C                                                                                                   C
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC

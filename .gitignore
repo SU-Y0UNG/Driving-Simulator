@@ -1,0 +1,14 @@
+# 빌드 결과물
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.idb
+*.log
+*.exe
+*.ilk
+*.tlog
+*.iobj
+*.ipdb
+.vs/
