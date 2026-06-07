@@ -277,7 +277,11 @@ git clone https://github.com/your-username/bestdriver_GENISIS.git
 
 <br/>
 
----
+## 🎬 시연 영상
+
+[![시연 영상](images/thumbnail.png)](https://youtu.be/IXsHpMUysOo)
+
+> 클릭하면 영상으로 이동합니다.
 
 <br/>
 
