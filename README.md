@@ -279,7 +279,7 @@ git clone https://github.com/your-username/bestdriver_GENISIS.git
 
 ## 🎬 시연 영상
 
-[![시연 영상](https://youtu.be/IXsHpMUysOo)
+[![시연 영상](images/bestdriver사진.png)](https://youtu.be/IXsHpMUysOo)
 
 > 클릭하면 영상으로 이동합니다.
 
